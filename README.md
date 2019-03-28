@@ -2,14 +2,14 @@
 
 
 - Simple GUI and easily adaptable by user
-- Full-featured: Currently present section, add/append data, search for a particular designation
+- Full-featured: Currently present sections designation, add/append data, search for a particular designation
 - Compatible with windows 10
-- Each section is divided in three categories according to sections type
+- Each feature is divided in three categories according to sections type
 - Made an application and installer for windows
 
 
 ## Necessary software or python packages
-- squlite3
+- sqlite3
 - pyqt5
 - innosetup (used here for making installer)
 
@@ -19,7 +19,7 @@
 
 
 ## Installer
-- setup is to be installed in windows
+- Setup is to be installed in windows
 - Script file is generated while converting exe file to installer
 
 ## GUI
