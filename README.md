@@ -13,6 +13,17 @@
 - pyqt5
 - innosetup (used here for making installer)
 
+
+## Application
+- Run the exe file on the windows along with the images and sqlite file in the same folder
+
+
+## Installer
+- setup is to be installed in windows
+- Script file is generated while converting exe file to installer
+
+## GUI
+
 ### First Screen
 
 ![](https://github.com/Pragya007/fsf_2019_screening_task3/blob/master/Screenshots/Capture2.PNG)
